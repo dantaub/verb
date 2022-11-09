@@ -3736,7 +3736,7 @@ verb_eval_Analyze.rationalCurveClosestParam = function(curve,p) {
 			u = proj.u;
 		}
 	}
-	var maxits = 20;
+	var maxits = 5;
 	var i = 0;
 	var e;
 	var eps1 = 0.0001;
