@@ -446,7 +446,7 @@ class Analyze {
 
         }
 
-        return cu;
+        return u;
 
     }
 
